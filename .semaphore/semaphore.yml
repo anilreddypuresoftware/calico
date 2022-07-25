@@ -2,7 +2,7 @@
 # To update, modify the template and then run 'make gen-semaphore-yaml'.
 version: v1.0
 name: Calico
-
+ 
 execution_time_limit:
   hours: 4
 
